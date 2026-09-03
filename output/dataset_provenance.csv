@@ -1,0 +1,2 @@
+dataset_name,repository,dataset_directory,format,frequency,number_of_files,number_of_sectors,number_of_tickers,raw_size_gb,repository_last_modified,repository_sha
+Stock Market Data Warehouse,brandonyeequon/stock-market-data-warehouse,15_min_interval_stocks,CSV,15-minute intervals,6564,12,6564,23.38,2025-05-28 17:39:08+00:00,d398d64453c7a582a60ca8c8846fdb80061b8412
