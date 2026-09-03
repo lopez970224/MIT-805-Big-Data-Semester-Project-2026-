@@ -20,15 +20,16 @@ The project uses a large working dataset while maintaining representation across
 ## 2. Dataset Source
 The dataset is publicly available through the Hugging Face dataset repository:
 
-```text
 brandonyeequon/stock-market-data-warehouse
 
-Data Format
+## 3. Data Format 
 Each CSV file contains standardized columns:
 
-timestamp: ISO format datetime (15-minute intervals)
-open: Opening price for the interval
-high: Highest price during the interval
-low: Lowest price during the interval
-close: Closing price for the interval
-volume: Trading volume for the interval
+- timestamp: ISO format datetime (15-minute intervals)
+- open: Opening price for the interval
+- high: Highest price during the interval
+- low: Lowest price during the interval
+- close: Closing price for the interval
+- volume: Trading volume for the interval
+
+```text
